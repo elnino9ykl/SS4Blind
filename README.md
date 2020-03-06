@@ -12,7 +12,7 @@ Sensors, 2018.
 ## RGB-D-SS Dataset
 [**Download Link**](https://drive.google.com/file/d/1QcSBWDkQ1qeljWsVHbtvV3xMhBhEL5a6/view?usp=sharing)
 
-![Example segmentation](rgbdss.jpg?raw=true "Example segmentation" | width=100)
+![Example segmentation](rgbdss.jpg?raw=true "Example segmentation" width="100px")
 
 **Robustifying Semantic Cognition of Traversability across Wearable RGB-Depth Cameras.**
 K. Yang, L.M. Bergasa, E. Romera, K. Wang. Applied Optics, 2019.
