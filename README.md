@@ -11,6 +11,8 @@ K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. C
 
 ## RGB-D-SS Dataset
 [**Download Link**](https://drive.google.com/file/d/1QcSBWDkQ1qeljWsVHbtvV3xMhBhEL5a6/view?usp=sharing)
+<img src="https://github.com/elnino9ykl/SS4Blind/blob/master/rgbdss.jpg" width="48">
+
 
 ![Example segmentation](rgbdss.jpg?raw=true "Example segmentation"){:height=50px}
 **Robustifying Semantic Cognition of Traversability across Wearable RGB-Depth Cameras.**
