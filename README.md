@@ -1,4 +1,4 @@
-# Datasets on Semantic Segmentation to Help Navigate Blind People
+# Semantic Segmentation to Help Navigate Blind People
 
 ## Gardens Point Dataset with Pixel-Wise Traversable Area Annotations
 [**Download Link**](https://drive.google.com/file/d/1YDphc00nIeC9-x-JbiQ-gQ2cFv2LFiD0/view?usp=sharing), 600 images
