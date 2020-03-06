@@ -9,7 +9,7 @@ K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. C
 [[**PDF**]](https://www.mdpi.com/1424-8220/18/5/1506/pdf)
 
 ## RGB-D-SS Dataset
-[**Download Link**](https://drive.google.com/file/d/1QcSBWDkQ1qeljWsVHbtvV3xMhBhEL5a6/view?usp=sharing), 400 images
+[**Download Link**](https://drive.google.com/file/d/1QcSBWDkQ1qeljWsVHbtvV3xMhBhEL5a6/view?usp=sharing), 400 RGB-D images
 
 <img src="https://github.com/elnino9ykl/SS4Blind/blob/master/rgbdss.jpg" width=50% height=50%>
 
@@ -44,3 +44,18 @@ R. Cheng, K. Wang, K. Yang, N. Long, W. Hu, H. Chen, J. Bai, D. Liu.
 K. Yang, L.M. Bergasa, E. Romera, D. Sun, K. Wang, R. Barea.
 In IEEE International Conference on Vehicular Electronics and Safety (**ICVES**), Madrid, Spain, September 2018.
 [[**PDF**]](http://www.robesafe.uah.es/personal/bergasa/papers/icves2018.pdf)
+
+
+## Terrain Awareness Dataset
+[**Download Link**](https://drive.google.com/file/d/1BUl6fOE15jnoqY2Ioop-vaQLgC8gdXvY/view?usp=sharing), 120 RGB-D images
+<img src="https://github.com/elnino9ykl/SS4Blind/blob/master/terrain.jpg" width=75% height=75%>
+
+**Unifying terrain awareness through real-time semantic segmentation.**
+K. Yang, L.M. Bergasa, E. Romera, R. Cheng, T. Chen, K. Wang.
+In IEEE Intelligent Vehicles Symposium (**IV**), Suzhou, China, June 2018.
+[[**PDF**]](http://www.robesafe.uah.es/personal/bergasa/papers/iv2018_kailun.pdf)
+
+**Unifying Terrain Awareness for the Visually Impaired through Real-Time Semantic Segmentation.**
+K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. Chen, E. López.
+**Sensors**, 2018.
+[[**PDF**]](https://www.mdpi.com/1424-8220/18/5/1506/pdf)
