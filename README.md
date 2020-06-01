@@ -7,9 +7,11 @@
 K. Yang, K. Wang, L.M. Bergasa, E. Romera, W. Hu, D. Sun, J. Sun, R. Cheng, T. Chen, E. López.
 **Sensors**, 2018.
 [[**PDF**]](https://www.mdpi.com/1424-8220/18/5/1506/pdf)
+
 **In Defense of Multi-Source Omni-Supervised Efficient ConvNet for Robust Semantic Segmentation in Heterogeneous Unseen Domains.**
 K. Yang, X. Hu, K. Wang, R. Stiefelhagen.
 In IEEE Intelligent Vehicles Symposium (**IV**), Las Vegas, United States, October 2020.
+
 **Semantic scene understanding on mobile device with illumination invariance for the visually impaired.**
 C. Xu, K. Wang, K. Yang, R. Cheng, J. Bai.
 In SPIE Security + Defence Symposium, Strasbourg, France, September 2019.
